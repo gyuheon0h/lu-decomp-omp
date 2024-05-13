@@ -1,0 +1,35 @@
+Sequential
+Matrix generation runtime: 932 milliseconds
+Decomposition runtime: 193775 milliseconds
+158.37user 2.20system 2:40.60elapsed 99%CPU (0avgtext+0avgdata 3483220maxresident)k
+608inputs+32outputs (1major+1864171minor)pagefaults 0swaps
+1 core
+Matrix generation runtime: 756 milliseconds
+Decomposition runtime: 159055 milliseconds
+158.37user 2.20system 2:40.60elapsed 99%CPU (0avgtext+0avgdata 3483220maxresident)k
+608inputs+32outputs (1major+1864171minor)pagefaults 0swaps
+2 core
+Matrix generation runtime: 944 milliseconds
+Decomposition runtime: 113887 milliseconds
+219.42user 10.87system 1:55.61elapsed 199%CPU (0avgtext+0avgdata 3453560maxresident)k
+0inputs+32outputs (0major+1728368minor)pagefaults 0swaps
+4 core
+Matrix generation runtime: 1381 milliseconds
+Decomposition runtime: 72528 milliseconds
+280.34user 15.51system 1:14.70elapsed 396%CPU (0avgtext+0avgdata 3431532maxresident)k
+0inputs+32outputs (0major+1558256minor)pagefaults 0swaps
+8 core
+Matrix generation runtime: 1534 milliseconds
+Decomposition runtime: 51196 milliseconds
+400.97user 20.75system 0:53.54elapsed 787%CPU (0avgtext+0avgdata 3408744maxresident)k
+0inputs+32outputs (0major+1509386minor)pagefaults 0swaps
+16 core
+Matrix generation runtime: 1573 milliseconds
+Decomposition runtime: 44404 milliseconds
+698.13user 35.01system 0:46.80elapsed 1566%CPU (0avgtext+0avgdata 3412544maxresident)k
+0inputs+32outputs (0major+1473157minor)pagefaults 0swaps
+32 core
+Matrix generation runtime: 1835 milliseconds
+Decomposition runtime: 46013 milliseconds
+1456.30user 66.37system 0:48.69elapsed 3126%CPU (0avgtext+0avgdata 3417520maxresident)k
+0inputs+32outputs (0major+1311542minor)pagefaults 0swaps
